@@ -1,0 +1,25 @@
+/* XPM */
+static char *step_bcgrnd[] = {
+/* columns rows colors chars-per-pixel */
+"50 18 1 1 ",
+"  c white",
+/* pixels */
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  ",
+"                                                  "
+};
